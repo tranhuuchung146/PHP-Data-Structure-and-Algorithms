@@ -11,7 +11,7 @@ Cấu trúc thư mục:
 Algorithms:
 
 - Sorting
--Searching
+- Searching
 
 DS
 - Queue
