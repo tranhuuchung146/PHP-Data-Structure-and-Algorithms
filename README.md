@@ -1,23 +1,23 @@
-#PHP-Data-Structure-and-Algorithms
+# PHP-Data-Structure-and-Algorithms
 
 Đề bài yêu cầu Thực hiện bởi: Trần Hữu Chung
 
-Cách sử dụng kết quả:
+## Cách sử dụng kết quả:
 
 - Download code và run code tại đường dẫn https://github.com/tranhuuchung146/PHP-Data-Structure-and-Algorithms.git
 
-Cấu trúc thư mục:
+## Cấu trúc thư mục:
 
-Algorithms:
+### Algorithms:
 
 - Sorting
 - Searching
 
-DS
+### DS
 - Queue
 - Stack
 
-HackeRank
+### HackeRank
 
 ![image](https://github.com/user-attachments/assets/f58d93a0-eaf6-42c9-974b-5b64307ff3d7)
 
