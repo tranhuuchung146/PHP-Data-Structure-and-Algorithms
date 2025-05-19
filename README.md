@@ -4,7 +4,7 @@ PHP-Data-Structure-and-Algorithms
 
 Cách sử dụng kết quả:
 
-- Download code và run code tại đường dẫn 
+- Download code và run code tại đường dẫn https://github.com/tranhuuchung146/PHP-Data-Structure-and-Algorithms.git
 
 Cấu trúc thư mục:
 
